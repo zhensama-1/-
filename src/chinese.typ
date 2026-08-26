@@ -3,7 +3,7 @@
 #show: template;
 
 #init(
-    name: "刘震",
+    name: "刘震"，
     // 如不需要头像，可注释掉上面的 pic_path 行，或者将其置空
     pic_path: "/img/Picture1.png",
     // pic_path : "",
